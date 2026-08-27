@@ -1,0 +1,16 @@
+# Python virtual environment
+mlenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows files
+Thumbs.db

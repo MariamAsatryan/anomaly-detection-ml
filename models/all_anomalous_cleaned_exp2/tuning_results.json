@@ -1,0 +1,37 @@
+{
+  "knn": {
+    "best_params": {
+      "n_neighbors": 3,
+      "weights": "uniform"
+    },
+    "best_score": 0.755551867838825
+  },
+  "random_forest": {
+    "best_params": {
+      "max_depth": 10,
+      "n_estimators": 100
+    },
+    "best_score": 0.8243453993776617
+  },
+  "lof": {
+    "best_params": {
+      "n_neighbors": 10
+    },
+    "best_score": NaN
+  },
+  "isolation_forest": {
+    "best_params": {
+      "contamination": 0.05,
+      "n_estimators": 100
+    },
+    "best_score": NaN
+  },
+  "ocsvm": {
+    "best_params": {
+      "gamma": "scale",
+      "kernel": "rbf",
+      "nu": 0.01
+    },
+    "best_score": NaN
+  }
+}
